@@ -12,7 +12,7 @@ https://comfy-store-eight.vercel.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/rafiakbar13/Comfy-store.git
+  git clone https://github.com/rafiakbar13/MoviesApp.git
 ```
 
 Go to the project directory
